@@ -37,7 +37,7 @@ Configure the following settings in the plugin menu:
 - Notifications will provide error details if an upload fails.
 
 ## Connect
-If you are experiencing trouble with the plugin, please contact me through Discord: [Svenns.]([https://discord.com/users/411556214741401602])
+If you are experiencing trouble with the plugin, please contact me through Discord: [Svenns.](https://discord.com/users/411556214741401602)
 
 ## License
-This plugin is licensed under the [Mozilla Public License 2.0]([https://www.gnu.org/licenses/gpl-3.0.html](https://www.mozilla.org/en-US/MPL/2.0/)).
+This plugin is licensed under the [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/).
