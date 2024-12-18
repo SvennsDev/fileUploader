@@ -7,7 +7,6 @@
 import { addChatBarButton, ChatBarButton, removeChatBarButton } from "@api/ChatButtons";
 import { showNotification } from "@api/Notifications";
 import { definePluginSettings } from "@api/Settings";
-import { Devs } from "@utils/constants";
 import { insertTextIntoChatInputBox } from "@utils/discord";
 import definePlugin, { OptionType } from "@utils/types";
 import { SelectedChannelStore } from "@webpack/common";
@@ -157,7 +156,7 @@ const FileUploadButton: React.FC = () => {
 export default definePlugin({
     name: "FileUploader",
     description: "Adds a file upload button to the message box.",
-    authors: [Devs.Svenns],
+    authors: [{ name: "Svenns.", id: 411556214741401602n }, { name: ".daan", id: 116523426977546248n }],
     settings,
     start() {
         addChatBarButton("FileUploader", FileUploadButton);
