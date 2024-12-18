@@ -41,3 +41,6 @@ If you are experiencing trouble with the plugin, please contact me through Disco
 
 ## License
 This plugin is licensed under the [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/).
+
+### NOTE:
+Using Userplugins is at **your** own risk! It can break your vencord please be carefull with it
